@@ -1,0 +1,26 @@
+{
+  "name": "spacex-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianoEger/spacex-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabianoEger/spacex-api/issues"
+  },
+  "homepage": "https://github.com/FabianoEger/spacex-api#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "graphql-request": "^5.0.0"
+  }
+}
